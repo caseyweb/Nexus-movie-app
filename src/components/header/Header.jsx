@@ -7,7 +7,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import "./style.scss";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
-import logo from "https://i.ibb.co/YB2RD95Z/nexus-xmd.jpg";
+import logo from "  "../../assets/movix-logo.svg";
 
 const Header = () => {
   const [show, setShow] = useState("top");
