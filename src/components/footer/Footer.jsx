@@ -15,7 +15,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    made with love by pkdriller continue supporting me by using and sharing this app reahar ©pk driller
+                    made with love by CASEYRHODES TECH continue supporting me by using and sharing this app © CASEYRHODES TECH 
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
